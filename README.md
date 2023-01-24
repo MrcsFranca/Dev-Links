@@ -1,7 +1,7 @@
 
 <h1 align="center"> DevLinks </h1>
 
-<p align="center">Esse site foi promovido pela Rocketseat, porém, foi alterado de acordo com as minhas preferências.</p> <br>
+<p align="center">Esse site foi promovido pela @Rocketseat, porém, foi alterado de acordo com as minhas preferências.</p> <br>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
